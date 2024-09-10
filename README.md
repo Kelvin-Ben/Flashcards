@@ -1,5 +1,4 @@
 # Flashcards
-About
 In this project: 
  - I will practice using:
      - Redux and Redux Toolkit to manage the complex state of flashcards-style quiz app.
